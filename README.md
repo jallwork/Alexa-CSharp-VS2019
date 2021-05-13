@@ -6,3 +6,6 @@ Two documents show how to install the AWS toolkit and create a C# program adding
 The second shows how to create a C# program that uses slots 
 
 Two videos to follow!
+
+
+Two videos: https://youtu.be/7LgPVL8Iqps and https://youtu.be/Z7NdZxoHZ_Q
